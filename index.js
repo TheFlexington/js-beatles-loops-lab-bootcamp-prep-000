@@ -23,8 +23,7 @@ function iLoveTheBeatles(num) {
   do {
     num++;
     aArray.push('I love the beatles!');
-  } while (num < 15 && 15 > num); {
-    aArray.push('I love the beatles!');
+  } while (num < 15); {
   }
   return aArray;
 }
